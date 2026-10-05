@@ -242,5 +242,4 @@ This project is developed for **educational and learning purposes**.
 
 ````
 
- கடைசி **```** மட்டும் paste செய்ய வேண்டாம். அதுக்குள்ள இருக்கிற content மட்டும் paste பண்ணு.
-````
+
