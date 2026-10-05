@@ -231,8 +231,23 @@ This project helps demonstrate practical knowledge of **RPA workflow design, dat
 ## 👥 Team Members
 
 * **Yogesh**
-
 ---
+
+## step1 create a task bot 
+  open automation anywhere and login credentials to create a task bot 
+  
+## step2 Open a Excel file and set path 
+    open Browse and set link the Excel File
+![imageAlt]
+
+
+
+
+
+
+
+
+
 
 ## 📄 License
 
