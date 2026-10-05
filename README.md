@@ -1,7 +1,6 @@
-Sure bro 👍 GitHub-la `README.md` file-la **exact-ah paste panna ready-aana code** கீழே கொடுக்கிறேன்.
-GitHub repository → `README.md` → **Edit ✏️** → old content remove → இதை paste → **Commit changes**.
 
-````markdown
+
+````
 # 🎓 Student Result Email Automation using Automation Anywhere
 
 ## 📌 Project Overview
