@@ -233,15 +233,32 @@ This project helps demonstrate practical knowledge of **RPA workflow design, dat
 * **Yogesh**
 ---
 
-## step1 create a task bot 
+## Step1 create a task bot 
   open automation anywhere and login credentials to create a task bot 
   
-## step2 Open a Excel file and set path 
-    open Browse and set link the Excel File
-![imageAlt]
+## Step2 Open a Excel file and set path 
+  open Browse and set link the Excel File
+    
+![imageAlt](https://github.com/yogeshAce6/Student-Result-Email-Automation/blob/ef39f5c4f98617f655e36b0a608d2b03771055a3/automation%20step%201%20.png)
 
+## Step3 Create a loop 
+create a loop to automatically send all the email to one by one 
 
+![imageAlt](https://github.com/yogeshAce6/Student-Result-Email-Automation/blob/ef39f5c4f98617f655e36b0a608d2b03771055a3/loop.png)
 
+## Step4 Create a cell 
+Create a cell using the name email and register number marks for each subject 
+
+![imageAlt](https://github.com/yogeshAce6/Student-Result-Email-Automation/blob/ef39f5c4f98617f655e36b0a608d2b03771055a3/cell%20c5%20%20.png)
+
+## Step5 Convert Excel to pdf 
+
+![imageAlt](https://github.com/yogeshAce6/Student-Result-Email-Automation/blob/ef39f5c4f98617f655e36b0a608d2b03771055a3/convert%20excel%20to%20pdf%20.png)
+
+## Step6 Result 
+Result send to all students mail id 
+
+![imageAlt](https://github.com/yogeshAce6/Student-Result-Email-Automation/blob/ef39f5c4f98617f655e36b0a608d2b03771055a3/result.png)
 
 
 
